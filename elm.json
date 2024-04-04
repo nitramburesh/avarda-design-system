@@ -1,0 +1,12 @@
+{
+  "type": "package",
+  "name": "nitramburesh/avarda-styled-system",
+  "summary": "Reusable design system meant for Elm applications.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "exposed-modules": [],
+  "source-directories": ["src"],
+  "elm-version": "0.19.0 <= v < 0.20.0",
+  "dependencies": {},
+  "test-dependencies": {}
+}
